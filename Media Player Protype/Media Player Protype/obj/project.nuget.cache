@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "Qqt4z0hW2e4hQYjtCL+0UxXTUlI83dGduDXP6NLtFA9GO68tk8NbBlRtNXcnanu2OILcrMmEmfsPHw4gFKTV6Q==",
+  "dgSpecHash": "HICZ3DS3GuH+mwYNlVE3mO0uB9tl+uWHWYIene04b6utQtC+CMPcxEak4wKu7ymqZp4tP8mRzeQlcfHaPiDjvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Josep\\Desktop\\Applied-Programming-Protypes\\Media Player Protype\\Media Player Protype\\Media Player Protype.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Josep\\.nuget\\packages\\wmplib\\1.0.0\\wmplib.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WMPLib 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WMPLib",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
