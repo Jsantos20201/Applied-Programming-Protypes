@@ -1,0 +1,15 @@
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\bin\Debug\net7.0\If and Else.exe
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\bin\Debug\net7.0\If and Else.deps.json
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\bin\Debug\net7.0\If and Else.runtimeconfig.json
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\bin\Debug\net7.0\If and Else.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\bin\Debug\net7.0\If and Else.pdb
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.csproj.AssemblyReference.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.AssemblyInfoInputs.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.AssemblyInfo.cs
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\refint\If and Else.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.pdb
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\If and Else.genruntimeconfig.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\If and Else\obj\Debug\net7.0\ref\If and Else.dll
