@@ -1,0 +1,15 @@
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\bin\Debug\net7.0\Loops.exe
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\bin\Debug\net7.0\Loops.deps.json
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\bin\Debug\net7.0\Loops.runtimeconfig.json
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\bin\Debug\net7.0\Loops.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\bin\Debug\net7.0\Loops.pdb
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.csproj.AssemblyReference.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.AssemblyInfoInputs.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.AssemblyInfo.cs
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\refint\Loops.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.pdb
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\Loops.genruntimeconfig.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Loops\obj\Debug\net7.0\ref\Loops.dll
