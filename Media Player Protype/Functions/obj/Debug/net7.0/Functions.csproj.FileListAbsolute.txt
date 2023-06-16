@@ -1,0 +1,15 @@
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\bin\Debug\net7.0\Functions.exe
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\bin\Debug\net7.0\Functions.deps.json
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\bin\Debug\net7.0\Functions.runtimeconfig.json
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\bin\Debug\net7.0\Functions.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\bin\Debug\net7.0\Functions.pdb
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.csproj.AssemblyReference.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\refint\Functions.dll
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.pdb
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\Functions.genruntimeconfig.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Functions\obj\Debug\net7.0\ref\Functions.dll
