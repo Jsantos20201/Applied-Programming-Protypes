@@ -1,0 +1,5 @@
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Media Player Protype\obj\Debug\net7.0\Media Player Protype.csproj.AssemblyReference.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Media Player Protype\obj\Debug\net7.0\Media Player Protype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Media Player Protype\obj\Debug\net7.0\Media Player Protype.AssemblyInfoInputs.cache
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Media Player Protype\obj\Debug\net7.0\Media Player Protype.AssemblyInfo.cs
+C:\Users\Josep\Desktop\Applied-Programming-Protypes\Media Player Protype\Media Player Protype\obj\Debug\net7.0\Media Player Protype.csproj.CoreCompileInputs.cache

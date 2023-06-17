@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using AxWMPLib;
 using System;
 using System.IO;
 using System.Threading;
@@ -6,7 +6,7 @@ using WMPLib; // Windows Media Player Library
 
 class Program
 {
-    static WindowsMediaPlayer? mediaPlayer;
+    static WindowsMediaPlayer mediaPlayer;
 
     static void Main(string[] args)
     {
