@@ -1,0 +1,13 @@
+apple
+banana
+car
+dog
+elephant
+fruit
+grape
+house
+ice cream
+juice
+kangaroo
+lemon
+mango
