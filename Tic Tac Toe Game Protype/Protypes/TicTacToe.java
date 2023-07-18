@@ -80,47 +80,47 @@ public class TicTacToe {
 
     public void playAgainstComputer() {
         Scanner scanner = new Scanner(System.in);
-    boolean gameOver = false;
+        boolean gameOver = false;
 
-    while (!gameOver) {
-        if (currentPlayer == 'X') {
-            System.out.println("Your turn (X)");
-            System.out.print("Enter row (1-3): ");
-            int row = scanner.nextInt() - 1; // Adjusting input to 0-based index
-            System.out.print("Enter column (1-3): ");
-            int col = scanner.nextInt() - 1; // Adjusting input to 0-based index
+        while (!gameOver) {
+            if (currentPlayer == 'X') {
+                System.out.println("Your turn (X)");
+                System.out.print("Enter row (1-3): ");
+                int row = scanner.nextInt() - 1; // Adjusting input to 0-based index
+                System.out.print("Enter column (1-3): ");
+                int col = scanner.nextInt() - 1; // Adjusting input to 0-based index
 
-            if (makeMove(row, col, currentPlayer)) {
+                if (makeMove(row, col, currentPlayer)) {
+                    printBoard();
+                    if (checkWin(currentPlayer)) {
+                        System.out.println("You win!");
+                        gameOver = true;
+                    } else if (isBoardFull()) {
+                        System.out.println("It's a draw!");
+                        gameOver = true;
+                    } else {
+                        currentPlayer = opponentPlayer;
+                    }
+                } else {
+                    System.out.println("Invalid move. Please try again.");
+                }
+            } else {
+                System.out.println("Computer's turn (O)");
+                makeComputerMove();
                 printBoard();
-                if (checkWin(currentPlayer)) {
-                    System.out.println("You win!");
+                if (checkWin(opponentPlayer)) {
+                    System.out.println("Computer wins!");
                     gameOver = true;
                 } else if (isBoardFull()) {
                     System.out.println("It's a draw!");
                     gameOver = true;
                 } else {
-                    currentPlayer = opponentPlayer;
+                    currentPlayer = 'X';
                 }
-            } else {
-                System.out.println("Invalid move. Please try again.");
-            }
-        } else {
-            System.out.println("Computer's turn (O)");
-            makeComputerMove();
-            printBoard();
-            if (checkWin(opponentPlayer)) {
-                System.out.println("Computer wins!");
-                gameOver = true;
-            } else if (isBoardFull()) {
-                System.out.println("It's a draw!");
-                gameOver = true;
-            } else {
-                currentPlayer = 'X';
             }
         }
+        scanner.close();
     }
-    scanner.close();
-}
 
     public void makeComputerMove() {
         // Simple AI strategy: Randomly choose an empty position for the computer's move
